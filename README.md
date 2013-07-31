@@ -1,0 +1,4 @@
+bashlogging
+===========
+
+Bash logging
